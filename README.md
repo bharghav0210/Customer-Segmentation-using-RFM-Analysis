@@ -71,12 +71,6 @@ The analysis follows a structured workflow:
     cd Customer-Segmentation-using-RFM-Analysis
     ```
 
-2.  Install the required Python libraries. It is highly recommended to use a virtual environment.
-    ```sh
-    pip install -r requirements.txt
-    ```
-    *(Note: You can create a `requirements.txt` file by running `pip freeze > requirements.txt` in your project's environment.)*
-
 ## Usage
 
 1.  Place your dataset (e.g., `retail_data.csv`) in the root directory of the project.
